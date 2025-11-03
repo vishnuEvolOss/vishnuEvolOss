@@ -20,7 +20,7 @@ Welcome to my corner of the internet! I'm a passionate **Software Developer** wh
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: https://vishnuvettiyil.netlify.app/
-- 🐦 Twitter: @vishnuars26(https://twitter.com/vishnuars26)
+- 🐦 Twitter: @vishnuars26(https://twitter.com/braintomakeapps)
 - 💼 LinkedIn: Vishnu V(https://linkedin.com/in/vishnu-v-5b192a20a)
 - 📩 Email: vishnuvettiyil11@gmail.com
 
